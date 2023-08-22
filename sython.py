@@ -651,7 +651,7 @@ bot_usernameeee = '@xnsex21bot'
 async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
-    joinu = await sython(JoinChannelRequest('saythonh))
+    joinu = await sython(JoinChannelRequest('saythonh'))
     channel_entity = await sython.get_entity(bot_username)
     await sython.send_message(bot_username, '/start')
     await asyncio.sleep(4)
@@ -694,7 +694,7 @@ async def _(event):
 async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
-    joinu = await sython(JoinChannelRequest('Source_elesyed))
+    joinu = await sython(JoinChannelRequest('Source_elesyed'))
     channel_entity = await sython.get_entity(bot_usernamee)
     await sython.send_message(bot_usernamee, '/start')
     await asyncio.sleep(4)
@@ -737,7 +737,7 @@ async def _(event):
 async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
-    joinu = await sython(JoinChannelRequest('saythonh))
+    joinu = await sython(JoinChannelRequest('saythonh'))
     channel_entity = await sython.get_entity(bot_usernameee)
     await sython.send_message(bot_usernameee, '/start')
     await asyncio.sleep(4)
@@ -781,7 +781,7 @@ async def _(event):
 async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
-    joinu = await sython(JoinChannelRequest('Source_elesyed))
+    joinu = await sython(JoinChannelRequest('Source_elesyed'))
     channel_entity = await sython.get_entity(bot_usernameeee)
     await sython.send_message(bot_usernameeee, '/start')
     await asyncio.sleep(4)
